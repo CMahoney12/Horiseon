@@ -1,5 +1,4 @@
 # Horiseon
-Horiseon
 
 This project is meant to refactor the HTML and CSS of Horiseon's web page/application
 
@@ -11,7 +10,7 @@ You can find the repository here:  https://github.com/CMahoney12/Horiseon
 Prerequisites
 
 Up-to-date browser, preferably Google Chrome
-List of Changes
+List of Changes:
 
     HTML:
 Changed Title from “title” to “Horiseon”
