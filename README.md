@@ -7,7 +7,6 @@ Getting Started:
 
 You can find this site published on : https://github.com/CMahoney12/Horiseon
 You can find the repository here:  https://github.com/CMahoney12/Horiseon
-Prerequisites
 
 Up-to-date browser, preferably Google Chrome
 List of Changes:
