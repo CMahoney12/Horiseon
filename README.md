@@ -6,7 +6,7 @@ This project is meant to refactor the HTML and CSS of Horiseon's web page/applic
 Getting Started:
 
 You can find the repository here:  https://github.com/CMahoney12/Horiseon
-You can find the deployed site here: https://github.com/CMahoney12
+You can find the deployed site here: git@github.com:CMahoney12/Horiseon.git
 
 Up-to-date browser, preferably Google Chrome
 List of Changes:
